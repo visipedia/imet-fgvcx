@@ -33,5 +33,5 @@ We are using Kaggle to host the leaderboard.
 |||
 |------|---------------|
 Competition Starts |March, 2019|
-Submission Deadline|Place holder, 2019|
+Submission Deadline|TBD, 2019|
 
