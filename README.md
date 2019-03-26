@@ -11,7 +11,7 @@ Multiple modalities can be expected and are camera sources are unknown. The phot
 Each object is seen by a single worker without a verification step.  Workers are advised to add multiple labels from an ontology provided by The Met, and additionally are allowed to add free-form text when they see fit.  The crowd are able to view the museum’s online collection pages and are advised to avoid annotating labels already present. Specifically, the crowd is advised to annotate labels related to what they “see” or what they infer as the object’s “utility.” We consider these annotations noisy.
 
 ### Data sets
-Each data sample contains 1 image and at least one attribute label from a label set of 1138 attributes. The dimension of image is normalized such that the shorter dimension is 300 pixels.
+Each data sample contains 1 image and at least one attribute label from a label set of 1103 attributes. The dimension of image is normalized such that the shorter dimension is 300 pixels.
 #### Training set
 109,274 Samples
 #### Validation set
@@ -33,5 +33,5 @@ We are using Kaggle to host the leaderboard.
 |||
 |------|---------------|
 Competition Starts |March, 2019|
-Submission Deadline|TBD, 2019|
+Submission Deadline|June 4, 2019|
 
